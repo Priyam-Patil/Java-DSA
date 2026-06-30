@@ -67,4 +67,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/3218-minimum-cost-for-cutting-cake-i) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Priyam-Patil/Java-DSA/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Priyam-Patil/Java-DSA/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Priyam-Patil/Java-DSA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Priyam-Patil/Java-DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
