@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0018-4sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyam-Patil/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/Priyam-Patil/Java-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyam-Patil/Java-DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0018-4sum) |
 | [0435-non-overlapping-intervals](https://github.com/Priyam-Patil/Java-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyam-Patil/Java-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1200-minimum-absolute-difference](https://github.com/Priyam-Patil/Java-DSA/tree/master/1200-minimum-absolute-difference) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0018-4sum) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Tree
 |  |
