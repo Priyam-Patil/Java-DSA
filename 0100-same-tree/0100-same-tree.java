@@ -13,20 +13,16 @@
  *     }
  * }
  */
-
-//  values and structure must be same then only two tree's are same
+ import java.util.*;
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        if(p==null && q==null ){
+        if(p==null && q==null){
             return true;
         }
-        if(p==null || q==null){
+        if(p==null || q==null || p.val!=q.val){
             return false;
         }
-        if(p.val!=q.val){
-            return false;
-        }
-        return isSameTree(p.left,q.left) && isSameTree(p.right,q.right);
-        // left subtree same  AND  right subtree same
+        return isSameTree(p.left,q.left)&& isSameTree(p.right,q.right);
+        // true-->left subtrees of both trees are same abd also right subtrees
     }
 }
