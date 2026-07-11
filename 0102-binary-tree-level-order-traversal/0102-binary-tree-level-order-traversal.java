@@ -14,8 +14,7 @@
  * }
  */
 
-
- import java.util.*;
+import java.util.*;
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> ans=new ArrayList<>();
@@ -23,27 +22,26 @@ class Solution {
             return ans;
         }
         Queue<TreeNode> q=new LinkedList<>();
-        q.add(root);
 
+        q.add(root);
 
         while(!q.isEmpty()){
             int size=q.size();
+            List<Integer> list=new ArrayList<>();
 
-            List<Integer> level=new ArrayList<>();
             for(int i=0;i<size;i++){
-                TreeNode currNode=q.remove();
-                level.add(currNode.val);
-                if(currNode.left!=null){
-                    q.add(currNode.left);
+                TreeNode curr=q.remove();
+                list.add(curr.val);
+                if(curr.left!=null){
+                    q.add(curr.left);
                 }
-                if(currNode.right!=null){
-                    q.add(currNode.right);
+                if(curr.right!=null){
+                    q.add(curr.right);
                 }
-
             }
-            ans.add(level);
-            // so for next level level empty .
-            // new ArrayList<>() means create fresh empty list.
+            ans.add(list);
+            // for next loop list will be empty
+            // new ArrayList create new empty list
 
         }
         return ans;
