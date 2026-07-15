@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Priyam-Patil/Java-DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Priyam-Patil/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0189-rotate-array) |
 ## Memoization
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Priyam-Patil/Java-DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
