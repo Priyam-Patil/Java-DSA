@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Priyam-Patil/Java-DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Priyam-Patil/Java-DSA/tree/master/0013-roman-to-integer) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Priyam-Patil/Java-DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Priyam-Patil/Java-DSA/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 ## Counting
@@ -136,10 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Priyam-Patil/Java-DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Priyam-Patil/Java-DSA/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Priyam-Patil/Java-DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Priyam-Patil/Java-DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Priyam-Patil/Java-DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Priyam-Patil/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0189-rotate-array) |
