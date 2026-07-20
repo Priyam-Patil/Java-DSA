@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyam-Patil/Java-DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Priyam-Patil/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyam-Patil/Java-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyam-Patil/Java-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyam-Patil/Java-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/Priyam-Patil/Java-DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Priyam-Patil/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Priyam-Patil/Java-DSA/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyam-Patil/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Priyam-Patil/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Priyam-Patil/Java-DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Priyam-Patil/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyam-Patil/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Priyam-Patil/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0189-rotate-array) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -179,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Priyam-Patil/Java-DSA/tree/master/0050-powx-n) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Priyam-Patil/Java-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
