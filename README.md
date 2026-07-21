@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Priyam-Patil/Java-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/Priyam-Patil/Java-DSA/tree/master/0041-first-missing-positive) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Priyam-Patil/Java-DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Priyam-Patil/Java-DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Priyam-Patil/Java-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyam-Patil/Java-DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Priyam-Patil/Java-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Priyam-Patil/Java-DSA/tree/master/0042-trapping-rain-water) |
