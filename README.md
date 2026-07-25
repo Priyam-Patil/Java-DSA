@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Priyam-Patil/Java-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/Priyam-Patil/Java-DSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyam-Patil/Java-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/Priyam-Patil/Java-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyam-Patil/Java-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1200-minimum-absolute-difference](https://github.com/Priyam-Patil/Java-DSA/tree/master/1200-minimum-absolute-difference) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -224,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Priyam-Patil/Java-DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Priyam-Patil/Java-DSA/tree/master/0073-set-matrix-zeroes) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Priyam-Patil/Java-DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
