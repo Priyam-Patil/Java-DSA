@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyam-Patil/Java-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Priyam-Patil/Java-DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Priyam-Patil/Java-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyam-Patil/Java-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0973-k-closest-points-to-origin](https://github.com/Priyam-Patil/Java-DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Priyam-Patil/Java-DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Priyam-Patil/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyam-Patil/Java-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/Priyam-Patil/Java-DSA/tree/master/0242-valid-anagram) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Priyam-Patil/Java-DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Priyam-Patil/Java-DSA/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 ## Counting
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Priyam-Patil/Java-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Priyam-Patil/Java-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Priyam-Patil/Java-DSA/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
