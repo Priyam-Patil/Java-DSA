@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Priyam-Patil/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyam-Patil/Java-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Priyam-Patil/Java-DSA/tree/master/0038-count-and-say) |
+| [0151-reverse-words-in-a-string](https://github.com/Priyam-Patil/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Priyam-Patil/Java-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Priyam-Patil/Java-DSA/tree/master/0242-valid-anagram) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Priyam-Patil/Java-DSA/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Priyam-Patil/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Priyam-Patil/Java-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Priyam-Patil/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Priyam-Patil/Java-DSA/tree/master/0189-rotate-array) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Tree
