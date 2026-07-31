@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Priyam-Patil/Java-DSA/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/Priyam-Patil/Java-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Priyam-Patil/Java-DSA/tree/master/0242-valid-anagram) |
+| [0520-detect-capital](https://github.com/Priyam-Patil/Java-DSA/tree/master/0520-detect-capital) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Priyam-Patil/Java-DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Priyam-Patil/Java-DSA/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 ## Counting
