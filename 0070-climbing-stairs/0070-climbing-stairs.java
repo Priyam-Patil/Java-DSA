@@ -1,14 +1,22 @@
+// Memoization
 class Solution {
+    public int helper(int n, int dp[]) {
+        if (n == 0) {
+            return 1;
+            // climb(0) means this sequence of jumps successfully reached exactly the top.
+        }
+        if (n < 0) {
+            return 0;
+        }
+        if (dp[n] != 0) {
+            return dp[n];
+        }
+        dp[n] = helper(n - 1, dp) + helper(n - 2, dp);
+        return dp[n];
+    }
+
     public int climbStairs(int n) {
-        if(n<3){
-            return n;
-        }
-        int a=3;//current way
-        int b=2;//previous way
-        for(int i=0;i<n-3;i++){
-            a=a+b;//next way
-            b=a-b;//previous a value
-        }
-        return a;
+        int dp[] = new int[n + 1];
+        return helper(n, dp);
     }
 }
