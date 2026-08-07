@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Priyam-Patil/Java-DSA/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyam-Patil/Java-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyam-Patil/Java-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/Priyam-Patil/Java-DSA/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyam-Patil/Java-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyam-Patil/Java-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Priyam-Patil/Java-DSA/tree/master/0572-subtree-of-another-tree) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyam-Patil/Java-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyam-Patil/Java-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Priyam-Patil/Java-DSA/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Priyam-Patil/Java-DSA/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/Priyam-Patil/Java-DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Priyam-Patil/Java-DSA/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Priyam-Patil/Java-DSA/tree/master/0994-rotting-oranges) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Priyam-Patil/Java-DSA/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Priyam-Patil/Java-DSA/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Priyam-Patil/Java-DSA/tree/master/0785-is-graph-bipartite) |
 ## Binary Search
 |  |
@@ -337,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Priyam-Patil/Java-DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Priyam-Patil/Java-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Priyam-Patil/Java-DSA/tree/master/1934-confirmation-rate) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Priyam-Patil/Java-DSA/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Priyam-Patil/Java-DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
