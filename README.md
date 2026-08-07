@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyam-Patil/Java-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/Priyam-Patil/Java-DSA/tree/master/0733-flood-fill) |
 | [0973-k-closest-points-to-origin](https://github.com/Priyam-Patil/Java-DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Priyam-Patil/Java-DSA/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/Priyam-Patil/Java-DSA/tree/master/1200-minimum-absolute-difference) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Priyam-Patil/Java-DSA/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Priyam-Patil/Java-DSA/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Priyam-Patil/Java-DSA/tree/master/0133-clone-graph) |
 | [0733-flood-fill](https://github.com/Priyam-Patil/Java-DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Priyam-Patil/Java-DSA/tree/master/0785-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/Priyam-Patil/Java-DSA/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Priyam-Patil/Java-DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Priyam-Patil/Java-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/Priyam-Patil/Java-DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Priyam-Patil/Java-DSA/tree/master/0994-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
